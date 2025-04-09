@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <div>
-      Subscribe to RoadsideCoder
+      Partner Portal
       <p>Name = {import.meta.env.VITE_EXAMPLE}</p>
     </div>
   );
